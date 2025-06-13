@@ -1,4 +1,4 @@
-// Developed by Manjistha Bidkar
+// Developed by Manjistha Bidkar 
 
 import fs from 'fs';
 import pdf from 'pdf-parse';
