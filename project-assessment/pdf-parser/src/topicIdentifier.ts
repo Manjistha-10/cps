@@ -1,3 +1,5 @@
+// Developed by Manjistha Bidkar
+
 import { extractTextFromPDF } from './utils/pdfExtractor';
 import { loadConceptsFromExcel, identifyConcepts } from './utils/matchTopics';
 
