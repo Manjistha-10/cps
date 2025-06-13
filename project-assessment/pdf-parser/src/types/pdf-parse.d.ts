@@ -1,3 +1,4 @@
+// Developed by - Manjistha Bidkar
 declare module 'pdf-parse' {
   interface PDFResult {
     text: string;
